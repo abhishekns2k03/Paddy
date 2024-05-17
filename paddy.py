@@ -20,8 +20,8 @@ class_labels = {
 
 
 
-
-model = load_model(r"C:\Users\abhis\Downloads\paddy\weight.h5")
+#rename with your location by copying the path
+model = load_model(r"paddy\weight.h5")
 
 # Function to preprocess the input image
 def preprocess_image(img):
