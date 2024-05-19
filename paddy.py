@@ -21,6 +21,7 @@ class_labels = {
 
 
 #rename with your location by copying the path
+# link given in the readme file 
 model = load_model(r"paddy\weight.h5")
 
 # Function to preprocess the input image
