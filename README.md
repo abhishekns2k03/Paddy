@@ -7,7 +7,11 @@
     
     pip install -r requirements.txt
 
-3)Run The Application:❤️‍🔥
+3)Download the dataset
+    
+    https://drive.google.com/drive/folders/1GAqotC5JLKmfixxm5K2KPcuDE5p_Etdj?usp=sharing
+
+4)Run The Application:❤️‍🔥
     
     streamlit run app.py
 
