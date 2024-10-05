@@ -1,6 +1,6 @@
 1)Clone the Repository: ✨
 
-    git clone https://github.com/Altaf-01/Paddy_Leaf_Disease_Detection.git 
+    git clone https://github.com/abhishekns2k03/Paddy.git
     cd Paddy_Leaf_Disease_Detection
 
 2)Install Dependencies:🤞
